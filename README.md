@@ -34,7 +34,7 @@ The default configuration is enough for most users. If you want to configure the
 Execute the script with `-h` option to see a list of options that you can use.
 
 ## Download
-You can manually download and install these tools from [releases](https://github.com/AayamIDEOfficial/aayamide-build-tools/releases). A step-by-step guide is available on [our blog](https://androidide.com/blogs/getting-started/2023/07/17/manually-installing-build-tools-in-androidide/).
+You can manually download and install these tools from [releases](https://github.com/AayamIDEOfficial/aayamide-tools/releases). A step-by-step guide is available on [our blog](https://androidide.com/blogs/getting-started/2023/07/17/manually-installing-build-tools-in-androidide/).
 
 ## Thanks to
 - @Lzhiyong for [sdk-tools](https://github.com/Lzhiyong/sdk-tools).
