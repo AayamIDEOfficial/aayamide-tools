@@ -32,11 +32,11 @@ print_success() {
 }
 
 print_help() {
-    echo "AndroidIDE build tools installer"
-    echo "This script helps you easily install build tools in AndroidIDE."
+    echo "AayamIDE build tools installer"
+    echo "This script helps you easily install build tools in AayamIDE."
     echo ""
     echo "Usage:"
-    echo "${0} -s 34.0.4 -c -j 17"
+    echo "${0} -s 35.0.2 -c -j 17"
     echo "This will install Android SDK 34.0.4 with command line tools and JDK 17."
     echo ""
     echo "Options :"
@@ -142,7 +142,7 @@ arch=$(uname -m)
 install_dir=$HOME
 sdkver_org=34.0.4
 with_cmdline=false
-manifest="https://raw.githubusercontent.com/AndroidIDEOfficial/androidide-tools/main/manifest.json"
+manifest="https://raw.githubusercontent.com/AayamIDEOfficial/aayamide-tools/main/manifest.json"
 pkgm="pkg"
 pkg_curl="libcurl"
 jdk_version="17"
